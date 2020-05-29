@@ -11,7 +11,6 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background: blue;
 }
 
 header {
@@ -34,7 +33,7 @@ h1 {
 	float: left;
 }
 
-.header .contenedor {
+header .contenedor {
 	display: table;
 }
 
