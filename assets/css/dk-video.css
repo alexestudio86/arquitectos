@@ -1,0 +1,30 @@
+	.headerDesktopPadding {
+	  padding: 13vh 0 0 0;
+	}
+    .myVideoDesktop {
+      height: 80vh;
+      width: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .black-transparent-medium{
+      background: rgba(0,0,0,0.5);
+    }
+    #navBar {
+      overflow: hidden;
+      z-index: 5;
+    }
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+    .sticky + div#about {
+      margin: 64px 0 0 0;
+    }
+    .padding-64-up {
+      padding:64px 0 0 0;
+    }
+    .padding-64-32 {
+      padding: 64px 0 32px 0;
+    }
