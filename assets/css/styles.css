@@ -1,28 +1,27 @@
-  body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
-    box-sizing: border-box;
-    scroll-behavior:smooth;
-	font-family: 'Roboto', sans-serif;
-  }
-  header {
-    width: 100%;
-    height: 50px;
-    background: #333;
-    color: #fff;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 100;
-  }
-  .w3-bar .w3-button {
-    padding: 16px;
-  }
-  .uppercase{
-    text-transform: uppercase;
-  }
-  .text-uppercase{
-    font-weight: bold;
-  }
+body, html {
+  margin:		0;
+  padding:		0;
+  height:		100%;
+  width:		100%;
+  box-sizing:		border-box;
+  scroll-behavior:	smooth;
+  font-family:		'Roboto', sans-serif;
+}
+.text-uppercase {
+  text-transform:	uppercase;
+}
+.font-weight-bold{
+  font-weight:		bold;
+}
+.w-100 {
+  width:		100%;
+}
+.w-50 {
+  width:		50%;
+}
+.mt-5 {
+	margin-top:	64px;
+}
+.pt-5 {
+	padding-top:	64px;
+}
