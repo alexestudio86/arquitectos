@@ -37,6 +37,15 @@ video {
 .h-10 {
   height:		        10%;
 }
+.h-10vh {
+  height:		        10vh;
+}
+.h-80vh {
+  height:		        80vh;
+}
+.h-90vh {
+  height:		        90vh;
+}
 .h-90 {
   height:		        90%;
 }
