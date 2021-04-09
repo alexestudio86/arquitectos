@@ -4,7 +4,7 @@ const loadMap = () => {
 
   var mapa = document.getElementById('map');
       mapa.innerHTML = '';
-  const coord = { lat:19.59705, lng:-99.00707 }
+  const coord = { lat:19.3023926, lng:-99.6306474 }
   const styles = [
       {
         featureType: "poi.business",
