@@ -31,17 +31,20 @@ video {
 .h-auto {
   height:		        auto;
 }
-.h-50 {
-  height:		        50%;
-}
 .h-10 {
   height:		        10%;
+}
+.h-8vh {
+  height:		        6vh;
 }
 .h-8vh {
   height:		        8vh;
 }
 .h-10vh {
   height:		        10vh;
+}
+.h-50 {
+  height:		        50%;
 }
 .h-80vh {
   height:		        80vh;
