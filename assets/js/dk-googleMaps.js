@@ -30,10 +30,10 @@ const loadMap = () => {
 	const contentString =
         '<div class="w3-row">'+
           '<div class="w3-col s2">'+
-           '<i class="fa fa-notes-medical fa-2x w3-text-blue"></i>'+
+           '<i class="far fa-building w3-xlarge w3-text-red"></i>'+
           '</div>'+
           '<div class="w3-col s10">'+
-            '<h1 class="w3-large w3-text-black w3-center" style="margin:0 0 0 2px">Perfect Spine</h1>'+
+            '<h1 class="w3-large w3-text-black w3-center" style="margin:0 0 0 2px">CAD Grupo Constructor</h1>'+
           '</div>'+
         '</div>';
 	const infowindow = new google.maps.InfoWindow({
