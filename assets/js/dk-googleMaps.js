@@ -25,7 +25,7 @@ const loadMap = () => {
   });
   const marker = new google.maps.Marker({
         position: coord,
-        title: 'Perfect Spine',
+        title: 'CAD Grupo Constructor',
   });
 	const contentString =
         '<div class="w3-row">'+
