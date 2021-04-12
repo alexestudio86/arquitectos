@@ -52,4 +52,3 @@ const loadMap = () => {
 // Add Eventos map starting
 mapa = document.querySelector('#map img');
 mapa.addEventListener('click', loadMap);
-loadMap();
