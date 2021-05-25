@@ -9,7 +9,7 @@
       loaderLogo = document.createElement('img');
       loaderLogo.classList.add('w3-display-middle', 'w3-image', 'w3-spin');
       loaderLogo.setAttribute('alt', 'Logo loader');
-      loaderLogo.setAttribute('src', 'https://1.bp.blogspot.com/-ZYqU0bBnf7o/YKxRGRBpDFI/AAAAAAABAck/K4lJu6npbycGatPCGpDs1ODugbssra0BACLcBGAsYHQ/s200/logo_cad_transparencia.png');
+      loaderLogo.setAttribute('src', 'https://1.bp.blogspot.com/-39q_5fQ3b5g/YKxVvLdttcI/AAAAAAABAc0/NqYQJ4hjIoIACoP6wcCk1JIPFYBXdIL1gCLcBGAsYHQ/s200/logo_cad_transparencia.png');
     bodyContainer.appendChild(loaderContainer);
       loaderContainer.appendChild(loaderLogo);
   }
