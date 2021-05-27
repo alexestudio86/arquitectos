@@ -5,7 +5,7 @@
     loaderContainer = document.createElement('div');
     loaderContainer.id = 'loaderScreen';
     loaderContainer.classList.add('w3-sidebar', 'w3-display-container', 'w3-animate-opacity');
-    loaderContainer.style = 'width:100vw; height:100vh; z-index:10';
+    loaderContainer.style = 'width:100vw; height:100vh; z-index:50';
       loaderLogo = document.createElement('img');
       loaderLogo.classList.add('w3-display-middle', 'w3-image', 'w3-spin');
       loaderLogo.setAttribute('alt', 'Logo loader');
